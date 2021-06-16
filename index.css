@@ -41,7 +41,7 @@ div{
   header{
     border-radius: 5px;
     height: 80px;
-    background-image: url('https://www.gyanblog.com/static/60fa9ebd58e29a7e31592d2183f5bbf1/b50f6/php.png');
+    background-image: /Images/capa.jpg;
     background-size: cover
     
   }
